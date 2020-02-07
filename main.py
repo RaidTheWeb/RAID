@@ -1,4 +1,4 @@
-from resources import *
+ from resources import *
 
 try:
   console()
